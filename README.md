@@ -1,6 +1,6 @@
 # UPLOADER V2 🚀
 
-[![logo](https://c.tenor.com/FU4mw1elg4QAAAAd/blackpink-kpop.gif)](https://telegram.dog/UploadLinkToFileBot)
+[![logo](https://)](https://telegram.dog/UploadLinkToFileBot)
 
 [![GitHub forks](https://img.shields.io/github/forks/LISA-KOREA/UPLOADER-BOT-V2?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/UPLOADER-BOT-V2/fork)
 ![Repo Size](https://img.shields.io/github/repo-size/LISA-KOREA/UPLOADER-BOT-V2?&style=flat-square&logo=github)
@@ -11,7 +11,7 @@
 
 ### Fork And Deploy
 
-  ㅤ ㅤ   ㅤ <a href="https://github.com/LISA-KOREA/UPLOADER-BOT-V2/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
+  ㅤ ㅤ   ㅤ <a href="https://github.com/gladsonchala/UPLOADER-BOT-V2/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
 
 
 
@@ -21,7 +21,7 @@
 
 ### Deploy to Koyeb
 
-  ㅤ ㅤ   ㅤ <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/LISA-KOREA/UPLOADER-BOT-V2&branch=Master&name=uploaderbotv2"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Koyeb-black?style=for-the-badge&logo=koyeb&logoColor=white"/></a> 
+  ㅤ ㅤ   ㅤ <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/gladsonchala/UPLOADER-BOT-V2&branch=Master&name=uploaderbotv2"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Koyeb-black?style=for-the-badge&logo=koyeb&logoColor=white"/></a> 
 
 #### How To Create Your Own Watch This Video Click 👉 [YouTube](https://youtu.be/UcRYSUdaFlo)
 
